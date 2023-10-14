@@ -1,4 +1,4 @@
-Country Name,Country Code,Region,IncomeGroup,Year,Life Expectancy World Bank,Prevelance of Undernourishment,CO2,Health Expenditure %,Education Expenditure %,Unemployment,Corruption,Sanitation,Injuries,Communicable,NonCommunicable
+id,Country Code,Region,IncomeGroup,Year,Life Expectancy World Bank,Prevelance of Undernourishment,CO2,Health Expenditure %,Education Expenditure %,Unemployment,Corruption,Sanitation,Injuries,Communicable,NonCommunicable
 Afghanistan,AFG,South Asia,Low income,2019,64.833,26.9,6079.999924,13.24220181,3.213779926,11.21700001,2,0,3481166.42,6034434.86,7601757.82
 Angola,AGO,Sub-Saharan Africa,Lower middle income,2019,61.147,17.9,25209.99908,2.53335953,1.927457333,7.421000004,0,0,1168866,7237433.13,4176568.27
 Albania,ALB,Europe & Central Asia,Upper middle income,2019,78.573,4.3,4829.999924,0,3.916650057,11.47000027,0,47.57714147,82288.1,51797.42,631629.88
